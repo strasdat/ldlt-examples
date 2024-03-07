@@ -1,0 +1,12 @@
+[package]
+name = "ldlt-examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+approx = {version= "0.5.1"}
+faer = "0.18"
+nalgebra = { version = "0.30.1" }
+nshare = "0.9"
+sprs = "0.11"
+sprs-ldl = "0.10"
